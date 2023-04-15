@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1290</width>
+    <height>650</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>10</y>
+      <width>511</width>
+      <height>571</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../../Users/brigh/OneDrive/Pictures/My_Covid_Record_Logo.png</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>false</bool>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignBottom|Qt::AlignHCenter</set>
+    </property>
+   </widget>
+   <widget class="QGroupBox" name="groupBox">
+    <property name="geometry">
+     <rect>
+      <x>520</x>
+      <y>10</y>
+      <width>751</width>
+      <height>571</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Tahoma</family>
+      <pointsize>12</pointsize>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="title">
+     <string>Please find information about Covid Vaccines, Boosters, and Updates.......</string>
+    </property>
+    <widget class="QPlainTextEdit" name="plainTextEdit_2">
+     <property name="geometry">
+      <rect>
+       <x>30</x>
+       <y>210</y>
+       <width>701</width>
+       <height>75</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <family>Tahoma</family>
+       <pointsize>11</pointsize>
+       <bold>false</bold>
+      </font>
+     </property>
+     <property name="plainText">
+      <string>An additional Pfizer BA.4/5 COVID-19 bivalent booster is now available for people who have completed a primary vaccination course (for most people this is 2 doses).
+
+You can get this booster, regardless of how many boosters you have had, if you are:
+
+aged 30 and over or
+at higher risk of severe illness from COVID-19.
+It will need to be at least 6 months since your last COVID-19 vaccine or a positive COVID-19 test.
+
+Having COVID-19 does not provide the same level of immunity as getting vaccinated. We also know that your protection from the primary course (this is usually 2 doses) of the vaccine decreases over time.
+
+To keep your immunity levels high, stay up to date with your vaccinations — including boosters. This will lower your chances of getting very sick from COVID-19 and ending up in hospital.
+
+For boosters, we use the Pfizer BA.4/5 bivalent vaccine. This is an updated vaccine targeting Omicron. COVID-19 vaccines are free.
+
+The bivalent vaccine produces an immune response against the original virus and Omicron variants. Specifically the BA.4 and BA.5 subvariants.
+
+Current evidence indicates the bivalent vaccine is more effective against Omicron subvariants than earlier vaccines.
+
+If you do not want the bivalent vaccine, you can ask for the original Pfizer vaccine when you arrive for your vaccination.
+For more information, please click the above link.
+</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_4">
+     <property name="geometry">
+      <rect>
+       <x>30</x>
+       <y>310</y>
+       <width>91</width>
+       <height>20</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Updates</string>
+     </property>
+    </widget>
+    <widget class="QPlainTextEdit" name="plainTextEdit_3">
+     <property name="geometry">
+      <rect>
+       <x>30</x>
+       <y>340</y>
+       <width>701</width>
+       <height>75</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <family>Tahoma</family>
+       <pointsize>11</pointsize>
+       <bold>false</bold>
+      </font>
+     </property>
+     <property name="plainText">
+      <string>https://covid19.govt.nz/news-and-data/latest-news/</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_5">
+     <property name="geometry">
+      <rect>
+       <x>30</x>
+       <y>430</y>
+       <width>101</width>
+       <height>20</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Symtoms</string>
+     </property>
+    </widget>
+    <widget class="QPlainTextEdit" name="plainTextEdit_4">
+     <property name="geometry">
+      <rect>
+       <x>30</x>
+       <y>460</y>
+       <width>701</width>
+       <height>75</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <family>Tahoma</family>
+       <pointsize>11</pointsize>
+       <bold>false</bold>
+      </font>
+     </property>
+     <property name="plainText">
+      <string>https://covid19.govt.nz/prepare-and-stay-safe/about-covid-19/covid-19-symptoms/</string>
+     </property>
+    </widget>
+    <widget class="QPlainTextEdit" name="plainTextEdit">
+     <property name="geometry">
+      <rect>
+       <x>30</x>
+       <y>80</y>
+       <width>701</width>
+       <height>75</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <family>Tahoma</family>
+       <pointsize>11</pointsize>
+       <bold>false</bold>
+      </font>
+     </property>
+     <property name="plainText">
+      <string>Who can get covid-19 Vaccine.
+Everyone in New Zealand aged 5 or over can get a free COVID-19 vaccination. It does not matter what your visa or citizenship status is.
+Pfizer is the preferred COVID-19 vaccine for use in New Zealand.
+
+If you are 18 years of age or older and either cannot get the Pfizer vaccine or want a different option, you can get the Novavax vaccine.
+
+You will be given the option to choose your vaccine type when you book. The Novavax vaccine is not available at all vaccination sites.
+
+Whichever vaccine you get, you will need 2 doses. COVID-19 vaccines are free.
+The standard gap between doses of the Pfizer vaccine is 3 weeks or more.
+
+For children aged 5 to 11, the recommended gap between doses is 8 weeks or more. This can be shortened to a minimum of 21 days if needed — for example, if the child is starting significant immunosuppression treatment. You will need to discuss this with the child's doctor.
+
+Children aged 6 months to 4 years can get the paediatric Pfizer vaccine if they are at higher risk of severe illness from COVID-19.
+Please click the above button for more information.</string>
+     </property>
+    </widget>
+    <widget class="QCommandLinkButton" name="commandLinkButton">
+     <property name="geometry">
+      <rect>
+       <x>30</x>
+       <y>30</y>
+       <width>222</width>
+       <height>47</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Covid Vaccine</string>
+     </property>
+    </widget>
+    <widget class="QCommandLinkButton" name="commandLinkButton_2">
+     <property name="geometry">
+      <rect>
+       <x>30</x>
+       <y>160</y>
+       <width>222</width>
+       <height>47</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Boosters</string>
+     </property>
+    </widget>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1290</width>
+     <height>26</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
