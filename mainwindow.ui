@@ -27,7 +27,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../../Users/brigh/OneDrive/Pictures/My_Covid_Record_Logo.png</pixmap>
+     <pixmap>img/My_Covid_Record_Logo.png</pixmap>
     </property>
     <property name="alignment">
      <set>Qt::AlignBottom|Qt::AlignHCenter</set>
@@ -107,7 +107,7 @@
         <string/>
        </property>
        <property name="pixmap">
-        <pixmap>../../Users/brigh/OneDrive/Pictures/My_Covid_Record_Logo.png</pixmap>
+        <pixmap>img/My_Covid_Record_Logo.png</pixmap>
        </property>
        <property name="scaledContents">
         <bool>true</bool>
@@ -224,7 +224,7 @@
         <string/>
        </property>
        <property name="pixmap">
-        <pixmap>../../Users/brigh/OneDrive/Pictures/Create_Account.png</pixmap>
+        <pixmap>img/Create_Account.png</pixmap>
        </property>
        <property name="scaledContents">
         <bool>true</bool>
@@ -390,7 +390,7 @@
         <string/>
        </property>
        <property name="pixmap">
-        <pixmap>../../Users/brigh/OneDrive/Pictures/Log_In.png</pixmap>
+        <pixmap>img/Log_In.png</pixmap>
        </property>
        <property name="scaledContents">
         <bool>true</bool>
@@ -556,7 +556,7 @@
         <string/>
        </property>
        <property name="pixmap">
-        <pixmap>../../Users/brigh/OneDrive/Pictures/Results.png</pixmap>
+        <pixmap>img/Results.png</pixmap>
        </property>
        <property name="scaledContents">
         <bool>true</bool>
@@ -722,7 +722,7 @@
         <string/>
        </property>
        <property name="pixmap">
-        <pixmap>../../Users/brigh/OneDrive/Pictures/Information.png</pixmap>
+        <pixmap>img/Information.png</pixmap>
        </property>
        <property name="scaledContents">
         <bool>true</bool>
@@ -908,7 +908,7 @@
         <string/>
        </property>
        <property name="pixmap">
-        <pixmap>../../Users/brigh/OneDrive/Pictures/Contact_Details.png</pixmap>
+        <pixmap>img/Contact_Details.png</pixmap>
        </property>
        <property name="scaledContents">
         <bool>true</bool>
@@ -1094,7 +1094,7 @@
         <string/>
        </property>
        <property name="pixmap">
-        <pixmap>../../Users/brigh/OneDrive/Pictures/Vaccine_Certificate.png</pixmap>
+        <pixmap>img/Vaccine_Certificate.png</pixmap>
        </property>
        <property name="scaledContents">
         <bool>true</bool>
@@ -1280,7 +1280,7 @@
         <string/>
        </property>
        <property name="pixmap">
-        <pixmap>../../Users/brigh/OneDrive/Pictures/Issues.png</pixmap>
+        <pixmap>img/Issues.png</pixmap>
        </property>
        <property name="scaledContents">
         <bool>true</bool>

@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>img/Log_In.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>img/My_Covid_Record_Logo.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix3">
+        <file>img/Vaccine_Certificate.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix4">
+        <file>img/Results.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix5">
+        <file>img/Vaccine_Bottle2.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix6">
+        <file>img/Create_Account.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix7">
+        <file>img/Information.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix8">
+        <file>img/Issues.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix9">
+        <file>img/Injection.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix10">
+        <file>img/Contact_Details.png</file>
+    </qresource>
+</RCC>
